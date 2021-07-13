@@ -1,0 +1,21 @@
+.Input { 
+    position: relative;
+    padding: 10px;
+}
+
+.Input__input {
+    font-size: 14px;
+}
+
+.Input__label {
+    font-size: 11px;
+    position: absolute;
+    top: -6px; 
+    color: gray;   
+}
+
+.Input__errors {
+    font-size: 11px;
+    color: red;
+    height: 11px;
+}
